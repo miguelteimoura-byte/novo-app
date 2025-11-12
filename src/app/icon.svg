@@ -1,0 +1,25 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="32" fill="url(#gradient)"/>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#a855f7"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Clock Icon -->
+  <circle cx="96" cy="96" r="48" fill="white" opacity="0.9"/>
+  <circle cx="96" cy="96" r="40" fill="none" stroke="#6366f1" stroke-width="3"/>
+  
+  <!-- Clock Hands -->
+  <line x1="96" y1="96" x2="96" y2="70" stroke="#6366f1" stroke-width="3" stroke-linecap="round"/>
+  <line x1="96" y1="96" x2="115" y2="96" stroke="#6366f1" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Center Dot -->
+  <circle cx="96" cy="96" r="3" fill="#6366f1"/>
+  
+  <!-- Social Elements -->
+  <circle cx="140" cy="60" r="8" fill="#f59e0b"/>
+  <circle cx="52" cy="140" r="8" fill="#10b981"/>
+  <circle cx="140" cy="140" r="8" fill="#ef4444"/>
+</svg>
